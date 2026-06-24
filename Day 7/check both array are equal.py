@@ -13,3 +13,4 @@ if equal:
     print("array equal")
 else:
     print("array not equal")
+ 
